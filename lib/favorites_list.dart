@@ -14,6 +14,7 @@ class FavoritesList extends StatefulWidget {
   State<FavoritesList> createState() => _FavoritesListState();
 }
 
+//
 class _FavoritesListState extends State<FavoritesList> {
   @override
   Widget build(BuildContext context) {
